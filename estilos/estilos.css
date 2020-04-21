@@ -55,6 +55,20 @@
     background-color: orangered;
     color: white;
   }
+  .nav > li {
+    float: left;
+  }
+
+  .nav li ul {
+    display: none;
+    position: absolute;
+    min-width: 140px;
+  }
+  .nav li:hover > ul {
+    display: block;
+
+
+  } 
   section#contenido,section#contenedor,aside,article{
     border-radius: .5em;
     margin: .0em auto;
