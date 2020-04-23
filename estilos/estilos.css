@@ -200,6 +200,25 @@
     .cuader{
       width: 95%;
     }
+    .formul{
+      margin: 3em;
+      border-radius: 3em;
+      background-color: chartreuse;
+      text-align: center;
+    }
+    .boton1{
+      margin: 0.2em;
+      border-radius: 6em;
+      font-size: 2em;
+      background-color: crimson;
+    }
+    table, th, td {
+      margin-top: 1em;
+      border: 1px solid;
+      text-align: center;
+      margin-left: 3em;
+    }
+  
 
 
 
